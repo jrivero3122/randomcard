@@ -1,0 +1,55 @@
+body{
+    background-color: green;
+}
+
+#cardstyle{
+    background-color: white;
+    width: 300px;
+    Height: 440px;
+    border: 2px solid gray;
+    border-radius: 20px;
+    margin: auto;
+    font-size: 100px;
+}
+
+#clover{
+    background-image: url(http://icons.iconarchive.com/icons/icons8/windows-8/64/Gaming-Three-Leafs-Clover-icon.png), url(http://icons.iconarchive.com/icons/icons8/windows-8/64/Gaming-Three-Leafs-Clover-icon.png);
+    background-position-x: 15px, 225px;
+    background-position-y: 15px, 350px; 
+    background-repeat: no-repeat, no-repeat;
+    height: 440px;
+    margin: auto;
+    font-size: 100px;
+    padding: 135px;
+}
+
+#heart{
+    background-image: url(http://icons.iconarchive.com/icons/dryicons/valentine/64/heart-icon.png), url(http://icons.iconarchive.com/icons/dryicons/valentine/64/heart-icon.png);
+    background-position-x: 15px, 225px;
+    background-position-y: 15px, 350px; 
+    background-repeat: no-repeat, no-repeat;
+    height: 440px;
+    margin: auto;
+    font-size: 100px;
+    padding: 135px;
+}
+#spade{
+    background-image: url(http://icons.iconarchive.com/icons/icons8/windows-8/64/Gaming-Spades-icon.png), url(http://icons.iconarchive.com/icons/icons8/windows-8/64/Gaming-Spades-icon.png);
+    background-position-x: 15px, 225px;
+    background-position-y: 15px, 350px;  
+    background-repeat: no-repeat, no-repeat;
+    height: 440px;
+    margin: auto;
+    font-size: 100px;
+    padding: 135px;
+}
+#diamond{
+    background-image: url(http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-7/64/Game-diamond-icon.png), url(http://icons.iconarchive.com/icons/custom-icon-design/pretty-office-7/64/Game-diamond-icon.png);
+    background-position-x: 15px, 225px;
+    background-position-y: 15px, 350px; 
+    background-repeat: no-repeat, no-repeat;
+    height: 440px;
+    margin: auto;
+    font-size: 100px;
+    padding: 135px;
+}
